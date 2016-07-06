@@ -3,7 +3,7 @@
 #PDF-SCRIPT v3.2
 
 # THIS SCRIPT WAS CREATED BY JOSHUA S. EAGLE (JOSHUASEAGLE@GMAIL.COM) 540-809-6033
-# www.eagle-js.com | @eagle-js (Github)
+# www.eagle-js.com | @eaglejs (Github)
 
 #Global Variable(s)
 filePath="/home/jeagle/Loans";
